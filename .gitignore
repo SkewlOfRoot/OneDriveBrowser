@@ -1,0 +1,104 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.idea/
+*.sw?
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of the presence of 'project.lock.json' (NuGet v3)
+# And 'packages.config' (NuGet v2)
+packages/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!packages/repositories.config
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Node.js directories
+node_modules/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Local History for JetBrains IDEs
+.localhistory/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Config directory created by Cake
+.tools/
+
+# Cake Addin directories
+Addins/
+
+# Cake Tool directories
+Tools/
+
+# Cake temporary directories
+.cake/
+
+# Code Coverage Results
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+*.codecov
+*.lcov
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of projects (cross platform)
+[Bb]uild[Ll]og.*
+
+# End of auto-generated section
